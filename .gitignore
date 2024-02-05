@@ -3,3 +3,5 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+/authentication/credentials.json
+token.json
